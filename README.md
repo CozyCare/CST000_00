@@ -2,9 +2,9 @@
 Hello World in Dutch
 Hallo wereld in het Nederlands
 
-Class ID: *Aunt Beast*
+Class ID: Ajunta_Pall
 
-Assignement ID: *CST???_00*
+Assignement ID: CST126_00
 
 Unresolved Issues:  None. 
 
@@ -22,9 +22,9 @@ Your program should output:
 
 Instructions: 
 
-- [ ] 0. Fork this repository.  
-- [ ] 1. Clone YOUR forked repository.  
-- [ ] 2. Modify main.cpp by adding the output "Hallo wereld" is "hello world" in Dutch
+- [*] 0. Fork this repository.  
+- [*] 1. Clone YOUR forked repository.  
+- [*] 2. Modify main.cpp by adding the output "Hallo wereld" is "hello world" in Dutch
 - [ ] 3. Build and run the program.  
 - [ ] 4. Update this README.md file.  (I'm Aunt Beast... choose your own Class ID)
 - [ ] 5. Clean the project.  
